@@ -17,4 +17,5 @@
 * strtok() - gets a string, breaks it into smaller strings using a
   	     delemeter provided as a parameter, and return and array
 	     of the smaller strings.
+* Done
 
