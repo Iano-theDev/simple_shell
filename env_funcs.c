@@ -31,7 +31,7 @@ char **create_env(char **env)
  */
 void free_env(char **env)
 {
-	size_t n;
+	size_t n = 0;
 
 	while (env[n] != NULL)
 	{
